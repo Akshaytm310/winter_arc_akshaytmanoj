@@ -21,6 +21,15 @@ p {
     text-align: center;
 }
 
-.center img {
-    display: inline-block;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25%;
+    width: 50rem;
+    height: 40rem;
+    image-rendering: auto;
+    box-shadow: 5px 10px #3b57bd;
+    position: relative;
+    z-index: 10;
 }
