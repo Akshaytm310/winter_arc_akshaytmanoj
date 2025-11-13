@@ -17,8 +17,10 @@ p {
     line-height: 1.6;
     text-align: center;
 }
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.center {
+    text-align: center;
+}
+
+.center img {
+    display: inline-block;
 }
