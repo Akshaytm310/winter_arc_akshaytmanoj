@@ -5,15 +5,20 @@ body{
     padding: 20px;
 }
 h2 {
-    color: #0077b6;
+    color: #000000;
     font-size: 2.5em;
     text-align: center;
     margin-bottom: 20px;
 }
 
 p {
-    color: #333;
+    color: #ffeeee;
     font-size: 1.2em;
     line-height: 1.6;
     text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
